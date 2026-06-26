@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import { resolve } from 'path';
 
 export default defineConfig({
+  base: '/shri_ram_sangh_website/',
   plugins: [
     react(),
     tailwindcss(),
