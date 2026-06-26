@@ -1,0 +1,588 @@
+{
+  "organization": {
+    "name": "Shri Ram Sangh",
+    "tagline": "Serving Humanity with Faith, Unity & Compassion",
+    "shortDescription": "A registered non-profit organization dedicated to social welfare, education, healthcare and community development across India since 2024.",
+    "logo": "/images/logo/logo.jpg",
+    "logoAlt": "Shri Ram Sangh Logo",
+    "favicon": "/images/logo/favicon.ico",
+    "foundedYear": 2024,
+    "registrationNumber": "520",
+    "pan": "AACTS1234R",
+    "section80G": "DIT(E)/80G/2014-15/SRS/1234",
+    "section12A": "DIT(E)/12A/2014-15/SRS/5678"
+  },
+
+  "navigation": [
+    { "label": "Home", "path": "/", "id": "home" },
+    { "label": "About", "path": "/about", "id": "about" },
+    { "label": "Activities", "path": "/activities", "id": "activities" },
+    { "label": "Events", "path": "/events", "id": "events" },
+    { "label": "Gallery", "path": "/gallery", "id": "gallery" },
+    { "label": "Team", "path": "/team", "id": "team" },
+    { "label": "Certificates", "path": "/certificates", "id": "certificates" },
+    { "label": "Contact", "path": "/contact", "id": "contact" }
+  ],
+
+  "hero": {
+    "title": "Empowering Communities,\nTransforming Lives",
+    "subtitle": "Join us in our mission to build a brighter, more compassionate India through education, healthcare, and sustainable development.",
+    "backgroundImage": "/images/hero/hero-banner.webp",
+    "ctaButtons": [
+      { "label": "Our Mission", "path": "/about", "variant": "primary" },
+      { "label": "Get Involved", "path": "/contact", "variant": "secondary" }
+    ],
+    "stats": [
+      { "value": 10, "suffix": "+", "label": "Years of Service" },
+      { "value": 50000, "suffix": "+", "label": "Lives Impacted" },
+      { "value": 200, "suffix": "+", "label": "Volunteers" },
+      { "value": 15, "suffix": "+", "label": "Active Programs" }
+    ]
+  },
+
+  "about": {
+    "title": "About Shri Ram Sangh",
+    "subtitle": "Dedicated service to the nation",
+    "description": "Shri Ram Sangh is a registered non-profit organization founded in 2024 with a vision to create a more equitable and compassionate society. Since our founding, we have worked tirelessly across communities in Delhi, Uttar Pradesh, Rajasthan, and Madhya Pradesh to uplift the underprivileged through education, healthcare, environmental conservation, and humanitarian aid.",
+    "extendedDescription": "What began as a small group of passionate volunteers has grown into a movement of over 200 dedicated individuals working across multiple states. Our programs have impacted more than 50,000 lives, and we continue to expand our reach with every passing year. We believe that true service comes from the heart, and every member of our organization is driven by a deep commitment to social welfare.",
+    "image": "/images/hero/hero-banner.webp",
+    "highlights": [
+      { "icon": "Heart", "title": "Community First", "description": "Every initiative begins with understanding community needs" },
+      { "icon": "Users", "title": "200+ Volunteers", "description": "A growing family of dedicated change-makers" },
+      { "icon": "MapPin", "title": "4 States", "description": "Active programs across Delhi, UP, Rajasthan & MP" },
+      { "icon": "Award", "title": "Recognized", "description": "80G & 12A certified organization" }
+    ]
+  },
+
+  "history": {
+    "title": "Our Journey",
+    "subtitle": "A timeline of impact and growth",
+    "timeline": [
+      {
+        "year": "2024",
+        "title": "The Beginning",
+        "description": "Shri Ram Sangh was founded in New Delhi by a group of 12 passionate individuals committed to social service. Our first initiative was a weekly food distribution drive in Old Delhi."
+      },
+      {
+        "year": "2015",
+        "title": "Education Initiative Launched",
+        "description": "Opened our first free education center in Chandni Chowk, providing after-school tutoring to 50 underprivileged children."
+      },
+      {
+        "year": "2016",
+        "title": "Healthcare Outreach",
+        "description": "Organized our first medical camp in rural Uttar Pradesh, providing free health checkups and medicines to over 500 villagers."
+      },
+      {
+        "year": "2017",
+        "title": "Environmental Drive",
+        "description": "Launched the 'Green India' campaign, planting over 5,000 trees across Delhi-NCR. Expanded food distribution to three cities."
+      },
+      {
+        "year": "2018",
+        "title": "Women Empowerment Program",
+        "description": "Started skill development workshops for women in rural areas, focusing on tailoring, handicrafts, and computer literacy."
+      },
+      {
+        "year": "2019",
+        "title": "Blood Donation Movement",
+        "description": "Organized the first mega blood donation camp with 300+ donors. Expanded education centers to 3 locations."
+      },
+      {
+        "year": "2020",
+        "title": "COVID-19 Relief",
+        "description": "Distributed over 25,000 food packets, 10,000 masks, and essential supplies during the pandemic. Set up oxygen helplines."
+      },
+      {
+        "year": "2021",
+        "title": "Expansion to Rajasthan",
+        "description": "Extended operations to Rajasthan with new education centers and regular medical camps in tribal areas."
+      },
+      {
+        "year": "2022",
+        "title": "Skill Development Centers",
+        "description": "Opened dedicated skill development centers in Delhi and Lucknow, training 500+ youth in employable skills."
+      },
+      {
+        "year": "2023",
+        "title": "50,000 Lives Impacted",
+        "description": "Reached the milestone of impacting 50,000 lives. Expanded to Madhya Pradesh. Launched disaster relief rapid response team."
+      },
+      {
+        "year": "2024",
+        "title": "A Decade of Service",
+        "description": "Celebrated 10 years of dedicated service. Launched digital literacy program and mental health awareness campaigns."
+      }
+    ]
+  },
+
+  "vision": {
+    "title": "Our Vision",
+    "subtitle": "The future we are building",
+    "statement": "To create a self-reliant, educated, and healthy India where every individual has access to basic necessities, quality education, and healthcare — regardless of their socioeconomic background.",
+    "points": [
+      "An India where no child goes without education",
+      "Communities empowered with healthcare access",
+      "Environmental sustainability through grassroots action",
+      "Women and youth leading social transformation",
+      "A culture of compassion, unity, and service"
+    ]
+  },
+
+  "mission": {
+    "title": "Our Mission",
+    "subtitle": "How we create impact",
+    "statement": "To empower underprivileged communities through sustainable programs in education, healthcare, environmental conservation, and humanitarian service — driven by faith, unity, and an unwavering commitment to social welfare.",
+    "focusAreas": [
+      {
+        "icon": "BookOpen",
+        "title": "Education",
+        "description": "Providing free education, digital literacy, and mentorship to underprivileged children and youth."
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Healthcare",
+        "description": "Organizing medical camps, health awareness drives, and providing access to essential medicines."
+      },
+      {
+        "icon": "TreePine",
+        "title": "Environment",
+        "description": "Promoting environmental sustainability through tree plantation, waste management, and green initiatives."
+      },
+      {
+        "icon": "HandHeart",
+        "title": "Humanitarian Aid",
+        "description": "Providing food, clothing, shelter, and emergency relief to those in need."
+      },
+      {
+        "icon": "Users",
+        "title": "Women Empowerment",
+        "description": "Skill development, financial literacy, and leadership programs for women."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Youth Development",
+        "description": "Mentorship, career guidance, and skill training for young adults."
+      }
+    ]
+  },
+
+  "objectives": {
+    "title": "Our Objectives",
+    "subtitle": "Measurable goals driving our mission",
+    "list": [
+      "Provide free quality education to 10,000+ underprivileged children annually",
+      "Conduct 50+ medical camps every year in underserved communities",
+      "Plant 100,000 trees by 2030 under the Green India initiative",
+      "Empower 5,000 women through skill development programs",
+      "Train 2,000 youth in employable skills each year",
+      "Organize monthly blood donation drives in major cities",
+      "Establish rapid response teams for disaster relief in 5 states",
+      "Launch digital literacy programs reaching 10,000 beneficiaries"
+    ]
+  },
+
+  "founder": {
+    "name": "Shri Ramesh Kumar Sharma",
+    "designation": "Founder & Managing Trustee",
+    "photo": "/images/team/team-founder.webp",
+    "message": "When we started Shri Ram Sangh in 2024, we were just twelve people with a shared dream — to serve those who needed it most. We had no office, no funds, just unwavering faith and a desire to make a difference.\n\nSince then, I have witnessed the incredible power of collective goodwill. From distributing meals in the narrow lanes of Old Delhi to organizing medical camps in remote villages of Rajasthan, every act of service has reinforced my belief that when people come together with pure intentions, no challenge is insurmountable.\n\nOur journey has been one of learning, growing, and constantly pushing our boundaries. We have faced setbacks, but never lost sight of our purpose. Every smile on a child's face when they receive their first schoolbook, every grateful tear from a mother who receives free medical care — these moments fuel our mission.\n\nI invite you to join us in this sacred journey of service. Together, we can build an India where compassion isn't just a word, but a way of life.",
+    "shortQuote": "Service to humanity is the highest form of worship. When we serve others, we serve the divine within them."
+  },
+
+  "team": {
+    "title": "Our Team",
+    "subtitle": "The dedicated individuals behind our mission",
+    "members": [
+      {
+        "name": "Shri Ramesh Kumar Sharma",
+        "designation": "Founder & Managing Trustee",
+        "photo": "/images/team/team-founder.webp",
+        "bio": "A social worker with 15+ years of experience in community development. Founded Shri Ram Sangh with a vision to serve underprivileged communities across India.",
+        "social": {
+          "facebook": "https://facebook.com",
+          "twitter": "https://twitter.com",
+          "linkedin": "https://linkedin.com"
+        },
+        "category": "leadership"
+      },
+      {
+        "name": "Smt. Sunita Devi",
+        "designation": "President",
+        "photo": "/images/team/team-president.webp",
+        "bio": "An educator and social activist who has been instrumental in setting up education centers across Delhi and UP. Leads the organization's strategic initiatives.",
+        "social": {
+          "facebook": "https://facebook.com",
+          "linkedin": "https://linkedin.com"
+        },
+        "category": "leadership"
+      },
+      {
+        "name": "Shri Vikram Singh Rajput",
+        "designation": "Vice President",
+        "photo": "/images/team/team-vp.webp",
+        "bio": "A retired government officer who now dedicates his time to community healthcare initiatives. Oversees all medical camp operations.",
+        "social": {
+          "twitter": "https://twitter.com",
+          "linkedin": "https://linkedin.com"
+        },
+        "category": "leadership"
+      },
+      {
+        "name": "Shri Amit Verma",
+        "designation": "General Secretary",
+        "photo": "/images/team/team-secretary.webp",
+        "bio": "A management professional who handles the organization's day-to-day operations, volunteer coordination, and event management.",
+        "social": {
+          "facebook": "https://facebook.com",
+          "linkedin": "https://linkedin.com"
+        },
+        "category": "executive"
+      },
+      {
+        "name": "Smt. Priya Sharma",
+        "designation": "Women Empowerment Head",
+        "photo": "/images/team/team-women-head.webp",
+        "bio": "A passionate advocate for women's rights who leads all skill development and empowerment programs for women across our centers.",
+        "social": {
+          "facebook": "https://facebook.com",
+          "twitter": "https://twitter.com"
+        },
+        "category": "executive"
+      },
+      {
+        "name": "Shri Rajesh Gupta",
+        "designation": "Treasurer",
+        "photo": "/images/team/team-treasurer.webp",
+        "bio": "A chartered accountant by profession who ensures transparent and accountable financial management of all organizational funds.",
+        "social": {
+          "linkedin": "https://linkedin.com"
+        },
+        "category": "executive"
+      }
+    ]
+  },
+
+  "activities": {
+    "title": "Our Activities",
+    "subtitle": "Programs that create lasting impact",
+    "items": [
+      {
+        "id": "food-distribution",
+        "title": "Food Distribution",
+        "shortDescription": "Providing nutritious meals to the hungry and underprivileged across communities.",
+        "description": "Our food distribution program operates weekly across Delhi, Lucknow, and Jaipur. We serve hot, nutritious meals to homeless individuals, daily wage workers, and families living below the poverty line. During festivals and special occasions, we organize community kitchens (Bhandara) serving thousands of people. Our COVID-19 relief efforts saw us distribute over 25,000 food packets to affected families.",
+        "image": "/images/activities/activity-food.webp",
+        "icon": "UtensilsCrossed",
+        "stats": { "value": "25000+", "label": "Meals Served Annually" },
+        "gallery": ["/images/gallery/gallery-food-01.webp", "/images/gallery/gallery-food-02.webp"]
+      },
+      {
+        "id": "medical-camps",
+        "title": "Medical Camps",
+        "shortDescription": "Free health checkups, medicines, and medical assistance for underserved communities.",
+        "description": "We organize regular medical camps in rural and semi-urban areas where healthcare access is limited. Our camps provide free consultations with qualified doctors, basic diagnostic tests, free medicines, and health awareness sessions. Specialized camps for eye care, dental health, and women's health are conducted quarterly. To date, we have served over 15,000 patients across 100+ medical camps.",
+        "image": "/images/activities/activity-medical.webp",
+        "icon": "Stethoscope",
+        "stats": { "value": "15000+", "label": "Patients Treated" },
+        "gallery": ["/images/gallery/gallery-medical-01.webp"]
+      },
+      {
+        "id": "education",
+        "title": "Education",
+        "shortDescription": "Free education and digital literacy for underprivileged children and youth.",
+        "description": "Education is the cornerstone of our mission. We run free education centers in Delhi, Lucknow, and Jaipur providing after-school tutoring, exam preparation, and digital literacy training. Our centers cater to children from economically weaker sections, helping them stay in school and excel academically. We also provide scholarships, school supplies, and uniforms to deserving students.",
+        "image": "/images/activities/activity-education.webp",
+        "icon": "GraduationCap",
+        "stats": { "value": "3000+", "label": "Students Supported" },
+        "gallery": ["/images/gallery/gallery-education-01.webp"]
+      },
+      {
+        "id": "tree-plantation",
+        "title": "Tree Plantation",
+        "shortDescription": "Environmental conservation through large-scale tree plantation drives.",
+        "description": "Our Green India initiative focuses on environmental sustainability through community-driven tree plantation drives. Since 2017, we have planted over 25,000 saplings across Delhi-NCR, Uttar Pradesh, and Rajasthan. We organize plantation drives during monsoon season, engaging schools, colleges, and corporate volunteers. Each sapling is geo-tagged and monitored for survival, ensuring our efforts create lasting green cover.",
+        "image": "/images/activities/activity-tree.webp",
+        "icon": "TreePine",
+        "stats": { "value": "25000+", "label": "Trees Planted" },
+        "gallery": ["/images/gallery/gallery-tree-01.webp"]
+      },
+      {
+        "id": "blood-donation",
+        "title": "Blood Donation",
+        "shortDescription": "Organizing blood donation camps to save lives and support blood banks.",
+        "description": "Blood scarcity is a critical issue in India, and our regular blood donation camps aim to bridge this gap. We organize monthly drives in collaboration with government hospitals and blood banks. Our mega annual blood donation camp attracts 300+ donors. We also maintain a volunteer donor database for emergency blood requirements, having facilitated over 2,000 units of blood donation.",
+        "image": "/images/activities/activity-blood.webp",
+        "icon": "Droplets",
+        "stats": { "value": "2000+", "label": "Units Donated" },
+        "gallery": ["/images/gallery/gallery-blood-01.webp"]
+      },
+      {
+        "id": "women-empowerment",
+        "title": "Women Empowerment",
+        "shortDescription": "Skill development and financial independence programs for women.",
+        "description": "Our women empowerment program provides skill training in tailoring, embroidery, handicrafts, beautician courses, and computer literacy. We help women from disadvantaged backgrounds become financially independent through these programs. Our centers also conduct awareness sessions on women's health, legal rights, and financial planning. Over 1,500 women have been trained and many have started their own small businesses.",
+        "image": "/images/activities/activity-women.webp",
+        "icon": "Heart",
+        "stats": { "value": "1500+", "label": "Women Trained" },
+        "gallery": ["/images/gallery/gallery-women-01.webp"]
+      },
+      {
+        "id": "skill-development",
+        "title": "Skill Development",
+        "shortDescription": "Employable skill training for youth from underprivileged backgrounds.",
+        "description": "Our skill development program focuses on equipping young adults with employable skills. We offer training in computer applications, spoken English, digital marketing, mobile repair, and vocational skills. Our training centers in Delhi and Lucknow have helped hundreds of youth secure employment or start their own ventures. We also provide career counseling and placement assistance.",
+        "image": "/images/activities/activity-skill.webp",
+        "icon": "Wrench",
+        "stats": { "value": "800+", "label": "Youth Trained" },
+        "gallery": ["/images/gallery/gallery-skill-01.webp"]
+      },
+      {
+        "id": "disaster-relief",
+        "title": "Disaster Relief",
+        "shortDescription": "Rapid response and relief operations during natural disasters and emergencies.",
+        "description": "Our disaster relief team provides rapid response during natural calamities and emergencies. We have mobilized relief operations during floods in UP and Bihar, the COVID-19 pandemic, and extreme weather events. Our relief efforts include distributing food packets, clean water, blankets, medicines, and temporary shelter materials. We also assist in rehabilitation and rebuilding efforts.",
+        "image": "/images/activities/activity-disaster.webp",
+        "icon": "ShieldCheck",
+        "stats": { "value": "10000+", "label": "People Assisted" },
+        "gallery": ["/images/gallery/gallery-disaster-01.webp"]
+      }
+    ]
+  },
+
+  "events": {
+    "title": "Events",
+    "subtitle": "Upcoming and past events",
+    "upcoming": [
+      {
+        "id": "mega-blood-camp-2025",
+        "title": "Mega Blood Donation Camp 2025",
+        "date": "2025-08-15",
+        "time": "8:00 AM - 5:00 PM",
+        "location": "Community Hall, Connaught Place, New Delhi",
+        "description": "Join our annual mega blood donation drive on Independence Day. Free health checkup for all donors. Refreshments and certificates provided.",
+        "image": "/images/events/event-blood-camp.webp",
+        "category": "Healthcare"
+      },
+      {
+        "id": "tree-plantation-monsoon",
+        "title": "Monsoon Plantation Drive",
+        "date": "2025-07-20",
+        "time": "7:00 AM - 12:00 PM",
+        "location": "Aravalli Biodiversity Park, Gurugram",
+        "description": "Plant trees this monsoon season. Target: 5,000 saplings in one day. Open to all volunteers, families, and corporate groups.",
+        "image": "/images/events/event-plantation.webp",
+        "category": "Environment"
+      },
+      {
+        "id": "women-skill-workshop",
+        "title": "Women Skill Development Workshop",
+        "date": "2025-09-01",
+        "time": "10:00 AM - 4:00 PM",
+        "location": "Shri Ram Sangh Center, Chandni Chowk, Delhi",
+        "description": "A free workshop covering tailoring, computer basics, and financial literacy for women from underprivileged backgrounds.",
+        "image": "/images/events/event-women-workshop.webp",
+        "category": "Empowerment"
+      }
+    ],
+    "past": [
+      {
+        "id": "ram-navami-bhandara-2024",
+        "title": "Ram Navami Maha Bhandara 2024",
+        "date": "2024-04-17",
+        "location": "Multiple Locations, Delhi",
+        "description": "Organized a massive community kitchen on the auspicious occasion of Ram Navami, serving over 10,000 meals across Delhi.",
+        "image": "/images/events/event-ram-navami.webp",
+        "category": "Community",
+        "attendees": 10000
+      },
+      {
+        "id": "republic-day-celebration",
+        "title": "Republic Day Health Camp",
+        "date": "2024-01-26",
+        "location": "Government School, Noida",
+        "description": "Free multi-specialty health camp on Republic Day. Over 800 patients received free checkups and medicines.",
+        "image": "/images/events/event-health-camp.webp",
+        "category": "Healthcare",
+        "attendees": 800
+      },
+      {
+        "id": "diwali-celebration-2024",
+        "title": "Diwali with Orphans 2024",
+        "date": "2024-11-01",
+        "location": "Hope Orphanage, Delhi",
+        "description": "Celebrated Diwali with orphan children, distributing sweets, clothes, crackers, and gifts. A night of joy and togetherness.",
+        "image": "/images/events/event-diwali.webp",
+        "category": "Community",
+        "attendees": 200
+      },
+      {
+        "id": "flood-relief-2023",
+        "title": "UP Flood Relief 2023",
+        "date": "2023-09-15",
+        "location": "Multiple Villages, Eastern UP",
+        "description": "Emergency relief operation during the devastating floods in eastern UP. Distributed food, water, medicines, and blankets to 3,000+ affected families.",
+        "image": "/images/events/event-flood-relief.webp",
+        "category": "Disaster Relief",
+        "attendees": 3000
+      }
+    ]
+  },
+
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Capturing moments of service and impact",
+    "categories": ["All", "Food Distribution", "Medical Camps", "Education", "Tree Plantation", "Blood Donation", "Women Empowerment", "Events", "Community"],
+    "images": [
+      { "src": "/images/gallery/gallery-food-01.webp", "alt": "Volunteers distributing food packets to families", "category": "Food Distribution" },
+      { "src": "/images/gallery/gallery-food-02.webp", "alt": "Community kitchen serving meals during Bhandara", "category": "Food Distribution" },
+      { "src": "/images/gallery/gallery-medical-01.webp", "alt": "Doctor examining patient at free medical camp", "category": "Medical Camps" },
+      { "src": "/images/gallery/gallery-education-01.webp", "alt": "Children studying at free education center", "category": "Education" },
+      { "src": "/images/gallery/gallery-tree-01.webp", "alt": "Volunteers planting saplings during monsoon drive", "category": "Tree Plantation" },
+      { "src": "/images/gallery/gallery-blood-01.webp", "alt": "Blood donation camp with enthusiastic donors", "category": "Blood Donation" },
+      { "src": "/images/gallery/gallery-women-01.webp", "alt": "Women learning tailoring at skill development center", "category": "Women Empowerment" },
+      { "src": "/images/gallery/gallery-skill-01.webp", "alt": "Youth attending computer training session", "category": "Education" },
+      { "src": "/images/gallery/gallery-disaster-01.webp", "alt": "Relief distribution during flood emergency", "category": "Events" },
+      { "src": "/images/gallery/gallery-community-01.webp", "alt": "Diwali celebration with orphan children", "category": "Community" },
+      { "src": "/images/gallery/gallery-community-02.webp", "alt": "Republic Day flag hoisting ceremony", "category": "Community" },
+      { "src": "/images/gallery/gallery-community-03.webp", "alt": "Volunteers group photo after successful event", "category": "Community" }
+    ]
+  },
+
+  "documents": {
+    "title": "Certificates & Documents",
+    "subtitle": "Our registrations and certifications",
+    "items": [
+      {
+        "title": "80G Certificate",
+        "description": "Income Tax Exemption under Section 80G",
+        "image": "/images/certificates/certificate-80g.webp",
+        "pdf": "/documents/certificate-80g.pdf"
+      },
+      {
+        "title": "12A Registration",
+        "description": "Registration under Section 12A of Income Tax Act",
+        "image": "/images/certificates/certificate-12a.webp",
+        "pdf": "/documents/certificate-12a.pdf"
+      },
+      {
+        "title": "NGO Registration",
+        "description": "Society Registration Certificate",
+        "image": "/images/certificates/certificate-registration.webp",
+        "pdf": "/documents/certificate-registration.pdf"
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us",
+    "address": {
+      "line1": "Shri Ram Sangh Head Office",
+      "line2": "45-B, Chandni Chowk Road",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "pincode": "110006",
+      "country": "India"
+    },
+    "phone": ["+91 98765 43210", "+91 11-2345 6789"],
+    "email": ["info@shriramsangh.org", "contact@shriramsangh.org"],
+    "workingHours": "Monday - Saturday: 10:00 AM - 6:00 PM",
+    "map": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.6743!2d77.2295!3d28.6562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sChandni+Chowk!5e0!3m2!1sen!2sin!4v1234567890",
+      "latitude": 28.6562,
+      "longitude": 77.2295
+    }
+  },
+
+  "socialMedia": {
+    "facebook": "https://facebook.com/shriramsangh",
+    "instagram": "https://instagram.com/shriramsangh",
+    "twitter": "https://twitter.com/shriramsangh",
+    "youtube": "https://youtube.com/@shriramsangh",
+    "whatsapp": "https://wa.me/919876543210"
+  },
+
+  "footer": {
+    "description": "Shri Ram Sangh is a registered non-profit organization dedicated to social welfare, education, healthcare, and community development. Join us in building a better India.",
+    "quickLinks": [
+      { "label": "About Us", "path": "/about" },
+      { "label": "Our Activities", "path": "/activities" },
+      { "label": "Events", "path": "/events" },
+      { "label": "Gallery", "path": "/gallery" },
+      { "label": "Our Team", "path": "/team" },
+      { "label": "Certificates", "path": "/certificates" },
+      { "label": "Contact", "path": "/contact" }
+    ],
+    "activityLinks": [
+      { "label": "Food Distribution", "path": "/activities#food-distribution" },
+      { "label": "Medical Camps", "path": "/activities#medical-camps" },
+      { "label": "Education", "path": "/activities#education" },
+      { "label": "Tree Plantation", "path": "/activities#tree-plantation" },
+      { "label": "Blood Donation", "path": "/activities#blood-donation" },
+      { "label": "Women Empowerment", "path": "/activities#women-empowerment" }
+    ],
+    "copyright": "© {year} Shri Ram Sangh. All rights reserved.",
+    "madeWith": "Made with ❤️ for a better India"
+  },
+
+  "seo": {
+    "defaultTitle": "Shri Ram Sangh | Serving Humanity with Faith, Unity & Compassion",
+    "titleTemplate": "%s | Shri Ram Sangh",
+    "defaultDescription": "Shri Ram Sangh is a registered NGO dedicated to social welfare, education, healthcare, and community development across India. Join us in serving humanity.",
+    "keywords": ["NGO India", "Shri Ram Sangh", "social welfare", "charity", "education", "healthcare", "tree plantation", "blood donation", "women empowerment", "community development", "volunteer", "non-profit India", "Delhi NGO"],
+    "siteUrl": "https://shriramsangh.org",
+    "ogImage": "/images/hero/hero-banner.webp",
+    "twitterHandle": "@shriramsangh",
+    "pages": {
+      "home": {
+        "title": "Shri Ram Sangh | Serving Humanity with Faith, Unity & Compassion",
+        "description": "Shri Ram Sangh is a registered non-profit organization empowering communities through education, healthcare, and sustainable development since 2024."
+      },
+      "about": {
+        "title": "About Us",
+        "description": "Learn about Shri Ram Sangh's journey, mission, vision, and the dedicated team working towards building a better India since 2024."
+      },
+      "activities": {
+        "title": "Our Activities",
+        "description": "Explore our programs in food distribution, medical camps, education, tree plantation, blood donation, women empowerment, and more."
+      },
+      "events": {
+        "title": "Events",
+        "description": "Stay updated with upcoming events and explore our past initiatives including medical camps, plantation drives, and community celebrations."
+      },
+      "gallery": {
+        "title": "Photo Gallery",
+        "description": "Browse through our collection of photos capturing moments of service, community events, and the impact of our programs."
+      },
+      "team": {
+        "title": "Our Team",
+        "description": "Meet the dedicated individuals behind Shri Ram Sangh who work tirelessly to serve communities and create lasting impact."
+      },
+      "certificates": {
+        "title": "Certificates & Documents",
+        "description": "View our official registrations, 80G certificate, 12A registration, and other certifications that establish our credibility."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "description": "Get in touch with Shri Ram Sangh. Find our address, phone numbers, email, and social media links."
+      }
+    }
+  },
+
+  "theme": {
+    "colors": {
+      "primary": "#FF7A00",
+      "secondary": "#F15A24",
+      "accent": "#FFC107",
+      "dark": "#1A1A1A",
+      "light": "#FAFAFA",
+      "primaryGradient": "linear-gradient(135deg, #FF7A00, #F15A24)",
+      "heroGradient": "linear-gradient(135deg, rgba(255,122,0,0.9), rgba(241,90,36,0.8))"
+    },
+    "fonts": {
+      "heading": "Poppins",
+      "body": "Inter"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "short_name": "SRS",
+  "name": "Shri Ram Sangh NGO",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1A1A1A",
+  "theme_color": "#FF7A00",
+  "display": "standalone",
+  "orientation": "portrait"
+}
